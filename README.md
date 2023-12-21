@@ -4,23 +4,16 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
 
 ## Table of Contents
 
-1. [Project 1: #1-Login-form](./#1-Login-form)
-   - An intuitive and secure login form webpage with customizable features for seamless integration into web applications.
+### 1. Login Form
+   An intuitive and secure login form webpage with customizable features for seamless integration into web applications.
 
-   **Demo Link:** [index.html](./#1-Login-form/index.html)
+   **Demo Link:** [Host Site](./Login-form/index.html)
 
    **Technologies Used:**
    - HTML
    - CSS
    - JavaScript
-
-1. [Project 2: Project Name](project2/)
-   - Brief description and link to the code.
-
-   ...
-
-30. [Project 30: Project Name](project30/)
-    - Brief description and link to the code.
+     
 
 ## Overview
 
