@@ -4,10 +4,17 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
 
 ## Table of Contents
 
-1. [Project 1: Project Name](project1/)
-   - Brief description and link to the code.
+1. [Project 1: #1-Login-form](./#1-Login-form)
+   - An intuitive and secure login form webpage with customizable features for seamless integration into web applications.
 
-2. [Project 2: Project Name](project2/)
+   **Demo Link:** [index.html](./#1-Login-form/index.html)
+
+   **Technologies Used:**
+   - HTML
+   - CSS
+   - JavaScript
+
+1. [Project 2: Project Name](project2/)
    - Brief description and link to the code.
 
    ...
