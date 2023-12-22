@@ -13,7 +13,16 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
-     
+
+### 2. Admin dashboard
+   An efficient, responsive and feature-rich admin dashboard, providing a centralized hub for data visualization, analytics, and management tasks with a user-friendly interface.
+
+   **Demo Link:** [Host Site](https://lambent-platypus-f4ede5.netlify.app/)
+
+   **Technologies Used:**
+   - HTML
+   - CSS
+   - JavaScript
 
 ## Overview
 
