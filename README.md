@@ -7,7 +7,9 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
 ### 1. Login Form
    An intuitive and secure login form webpage with customizable features for seamless integration into web applications.
 
-   **Demo Link:** [Host Site]([./Login-form/index.html](https://aesthetic-speculoos-fbe06e.netlify.app/))
+
+   **Demo Link:** [Host Site](https://aesthetic-speculoos-fbe06e.netlify.app/)
+
 
    **Technologies Used:**
    - HTML
