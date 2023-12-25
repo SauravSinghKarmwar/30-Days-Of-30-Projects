@@ -47,6 +47,16 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - CSS
    - JavaScript
 
+### 5. Quiz App
+   Engage, learn, and challenge yourself with our Quiz WebApp, offering interactive quizzes on various topics for an enjoyable and educational experience.
+
+   **Demo Link:** [Host Site](https://eloquent-fairy-030160.netlify.app/)
+
+   **Technologies Used:**
+   - HTML
+   - CSS
+   - JavaScript
+
 ## Overview
 
 This repository serves as a testament to the learning journey undertaken during this 30-day challenge. Each project folder contains the source code, along with a brief description of the project and the technologies used.
