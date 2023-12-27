@@ -58,9 +58,19 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - JavaScript
 
 ### 6. Random Password Generator
-   Generate strong and secure passwords effortlessly with our user-friendly web app, ensuring your online accounts stay protected
+   Generate strong and secure passwords effortlessly with our user-friendly web app, ensuring your online accounts stay protected.
 
    **Demo Link:** [Host Site](https://zippy-tiramisu-e62c84.netlify.app/)
+
+   **Technologies Used:**
+   - HTML
+   - CSS
+   - JavaScript
+
+### 7. Notes App
+   Your digital notebook – a user-friendly web app for effortless note-taking and organization, accessible anytime, anywhere.
+
+   **Demo Link:** [Host Site](https://heroic-longma-d11482.netlify.app/)
 
    **Technologies Used:**
    - HTML
