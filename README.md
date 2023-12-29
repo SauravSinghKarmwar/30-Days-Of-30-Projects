@@ -87,6 +87,16 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - CSS
    - JavaScript
 
+### 9. Quote Generator
+   DInspire and uplift with the QuoteGenerator WebApp, generating thought-provoking quotes at the click of a button.
+
+   **Demo Link:** [Host Site](https://calm-cranachan-da3ed3.netlify.app/)
+
+   **Technologies Used:**
+   - HTML
+   - CSS
+   - JavaScript
+
 ## Overview
 
 This repository serves as a testament to the learning journey undertaken during this 30-day challenge. Each project folder contains the source code, along with a brief description of the project and the technologies used.
