@@ -88,9 +88,19 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - JavaScript
 
 ### 9. Quote Generator
-   DInspire and uplift with the QuoteGenerator WebApp, generating thought-provoking quotes at the click of a button.
+   Inspire and uplift with the QuoteGenerator WebApp, generating thought-provoking quotes at the click of a button.
 
    **Demo Link:** [Host Site](https://calm-cranachan-da3ed3.netlify.app/)
+
+   **Technologies Used:**
+   - HTML
+   - CSS
+   - JavaScript
+
+### 10. QR code generator
+   Generate QR codes effortlessly with our web app—simplify information sharing and enhance accessibility in just a scan.
+
+   **Demo Link:** [Host Site](https://adorable-kataifi-832969.netlify.app/)
 
    **Technologies Used:**
    - HTML
