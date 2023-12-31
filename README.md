@@ -107,6 +107,16 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - CSS
    - JavaScript
 
+### 11. Stopwatch
+   Precision and simplicity in one – a web app stopwatch for accurate timekeeping and effortless tracking of elapsed intervals.
+
+   **Demo Link:** [Host Site](https://celebrated-florentine-8cd4d7.netlify.app/)
+
+   **Technologies Used:**
+   - HTML
+   - CSS
+   - JavaScript
+
 ## Overview
 
 This repository serves as a testament to the learning journey undertaken during this 30-day challenge. Each project folder contains the source code, along with a brief description of the project and the technologies used.
