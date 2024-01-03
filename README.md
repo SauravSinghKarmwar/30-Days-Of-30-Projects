@@ -138,7 +138,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - JavaScript
 
 ### 14. Hide/Show Password
-    --Enhance user experience with our web app's secure hide/show password feature, granting users control over password visibility for added convenience and confidence.--
+   Enhance user experience with our web app's secure hide/show password feature, granting user's control over password visibility for added convenience and confidence. 
 
    **Demo Link:** [Host Site](https://dreamy-halva-248634.netlify.app/)
 
@@ -146,6 +146,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+
 
 ## Overview
 
