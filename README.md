@@ -147,6 +147,16 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - CSS
    - JavaScript
 
+### 15. Dark-mode feature
+   Elevate your browsing experience with our Dark Mode web app feature, offering a sleek and eye-friendly interface for enhanced usability in low-light environments. 
+
+   **Demo Link:** [Host Site](https://chimerical-quokka-7ccf60.netlify.app/)
+
+   **Technologies Used:**
+   - HTML
+   - CSS
+   - JavaScript
+
 
 ## Overview
 
