@@ -26,7 +26,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
-
+---
 
 ### 3. Weather App
    A dynamic web application delivering real-time weather updates for any city or location.
@@ -37,6 +37,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 4. To Do App
    A streamlined to-do web app for efficient task management, helping you organize and prioritize your day with ease.
@@ -47,6 +48,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 5. Quiz App
    Engage, learn, and challenge yourself with our Quiz WebApp, offering interactive quizzes on various topics for an enjoyable and educational experience.
@@ -57,6 +59,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 6. Random Password Generator
    Generate strong and secure passwords effortlessly with our user-friendly web app, ensuring your online accounts stay protected.
@@ -67,6 +70,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 7. Notes App
    Your digital notebook – a user-friendly web app for effortless note-taking and organization, accessible anytime, anywhere.
@@ -77,6 +81,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 8. Age Calculator
    Discover the Age Calculator web app – a quick and easy tool to determine age or time differences, making date calculations a breeze.
@@ -87,6 +92,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 9. Quote Generator
    Inspire and uplift with the QuoteGenerator WebApp, generating thought-provoking quotes at the click of a button.
@@ -97,6 +103,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 10. QR code generator
    Generate QR codes effortlessly with our web app—simplify information sharing and enhance accessibility in just a scan.
@@ -107,6 +114,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 11. Stopwatch
    Precision and simplicity in one – a web app stopwatch for accurate timekeeping and effortless tracking of elapsed intervals.
@@ -117,6 +125,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 12. Calculator
    Your go-to online calculator web app for quick and precise mathematical calculations with a user-friendly interface.
@@ -127,6 +136,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 13. Popup
    Enhance user interaction with our Popup Web App feature, offering seamless and engaging pop-up experiences for notifications, alerts, and dynamic content display.
@@ -137,6 +147,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 14. Hide/Show Password
    Enhance user experience with our web app's secure hide/show password feature, granting user's control over password visibility for added convenience and confidence. 
@@ -147,6 +158,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 15. Dark-mode feature
    Elevate your browsing experience with our Dark Mode web app feature, offering a sleek and eye-friendly interface for enhanced usability in low-light environments. 
@@ -157,6 +169,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
+---
 
 ### 16. Form validation feature
    Enhance data integrity with our Form Validation WebApp feature, ensuring accurate and secure user input for seamless form submissions.
@@ -167,7 +180,7 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
-
+---
 
 ## Overview
 
