@@ -193,6 +193,18 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - JavaScript
 ---
 
+### 18. Email subscription feature using Google Sheets
+   Simplify email subscription management with this web app integrated seamlessly with Google Sheets, enabling effortless tracking and organization of subscriber information.
+   
+   **Demo Link:** [Host Site](https://cosmic-figolla-696633.netlify.app/)
+
+   **Technologies Used:**
+   - HTML
+   - CSS
+   - JavaScript
+   - Google Sheets
+---
+
 ## Overview
 
 This repository serves as a testament to the learning journey undertaken during this 30-day challenge. Each project folder contains the source code, along with a brief description of the project and the technologies used.
