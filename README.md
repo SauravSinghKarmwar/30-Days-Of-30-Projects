@@ -226,7 +226,6 @@ Welcome to my 30 Days of Web Development Challenge repository! Here, you'll find
    - HTML
    - CSS
    - JavaScript
-   - Google Sheets
 ---
 
 ## Overview
